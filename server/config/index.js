@@ -1,2 +1,5 @@
-export * from './middlewares'
-export * from './db'
+import { middlewaresConfig } from './middlewares'
+
+export {
+	middlewaresConfig
+}

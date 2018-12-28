@@ -7,7 +7,7 @@ export default class App extends Component {
     return (
       <div>
         <Header />
-        <div>React simple starter: Hornbill Web</div>
+        <div>React simple starter</div>
         <Footer />
       </div>
     )
